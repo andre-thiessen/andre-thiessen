@@ -52,7 +52,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://github.com/andre-thiessen">
   <img  alt="Andre´s Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
